@@ -8,11 +8,9 @@ To run the Pong game, follow these steps:
 
 1. Clone the repository using the following command:
    git clone https://github.com/jkk-python-projects/pong.git
-   Copy
 
 2. Navigate to the cloned directory:
    cd pong
-   Copy
 
 3. Install the required dependencies. This game doesn't have any external dependencies, so you're good to go!
 
@@ -21,7 +19,6 @@ To run the Pong game, follow these steps:
 To start the Pong game, run the following command:
 python main.py
 angelscript
-Copy
 
 The game window will open, and you can use the arrow keys or 'W' and 'S' keys to control the paddles. The objective is to bounce the ball off the paddles and prevent it from reaching the edges of the screen.
 
@@ -44,4 +41,4 @@ Contributions to this repository are currently not open. If you encounter any is
 
 ## License
 
-The code in this repository is not explicitly licensed, so standard copyright laws apply.
+The code in this repository is not explicitly licensed, so standard right laws apply.
