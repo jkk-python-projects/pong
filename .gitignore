@@ -4,7 +4,7 @@ data.json
 
 #idea files
 .idea/
-.DS_Store/
+.DS_Store
 
 #Venv files
 venv/
