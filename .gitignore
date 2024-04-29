@@ -1,0 +1,17 @@
+# app data files
+data.txt
+data.json
+
+#idea files
+.idea/
+.DS_Store/
+
+#Venv files
+venv/
+
+#Data files
+data.json
+data.txt
+
+# executables
+__pycache__/
